@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anievescordeiro
 - 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning Machine Learning techniques and SQL 
+- 🌱 I’m currently learning Machine Learning techniques and SQL Optimization
 - 💞️ I’m looking to collaborate on projects where data is analized
 - 📫 You can reach me in https://www.linkedin.com/in/adenievescordeiro/, drop a message and let's connect
 
